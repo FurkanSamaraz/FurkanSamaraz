@@ -89,13 +89,8 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1580](https://github.com/anuraghazra/github-readme-stats/pull/1580) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 🎉 Merged PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-4. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-5. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-<!--END_SECTION:activity-->
+
+
 
 </details>
 
@@ -106,15 +101,14 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FurkanSamaraz)](https://github.com/anuraghazra/github-readme-stats)
+[twitter]: https://twitter.com/furkan_samaraz
+[youtube]: https://www.youtube.com/channel/UCF6tbHFxGOSlVkBq71Amh2w/playlists
+[instagram]: https://www.instagram.com/furkansmrz/?hl=tr
+[linkedin]: https://www.linkedin.com/in/furkan-samaraz-176401200/
+[GolangPlaylist]: https://www.youtube.com/watch?v=fGl7N9MXL6A&list=PLNZjzXg8sR51njJmuB7sMv-AhIatIB2JX
+[KaliPlaylist]: https://www.youtube.com/watch?v=koFw52tmgHg&list=PLNZjzXg8sR51P8VAH1G-pIk0-8sJbWzQV
+[QtOpencvPlaylist]: https://www.youtube.com/watch?v=bRjDWQ-3O5M&list=PLNZjzXg8sR53u8EX4Fcol6PsMt909yn7j
+[QtPlaylist]: https://www.youtube.com/watch?v=-Lj93hjNe1g&list=PLNZjzXg8sR51oQ5PjLeehE6R3JC4Fds2M
+
+
