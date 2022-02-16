@@ -20,10 +20,9 @@
 
 
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCF6tbHFxGOSlVkBq71Amh2w/featured#gh-light-mode-only)&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCF6tbHFxGOSlVkBq71Amh2w/featured#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCF6tbHFxGOSlVkBq71Amh2w/featured#gh-dark-mode-only)
 &nbsp;&nbsp;
-
 [![website](./img/twitter-light.svg)](https://twitter.com/furkan_samaraz#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/furkan_samaraz#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -35,23 +34,24 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][youtube]
 
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][youtube]
 
-
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][youtube]
 
 
+[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][youtube]
 
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/channel/UCF6tbHFxGOSlVkBq71Amh2w/playlists#gh-dark-mode-only)
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][youtube]
 
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/channel/UCF6tbHFxGOSlVkBq71Amh2w/playlists#gh-dark-mode-only)
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][youtube]
+
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][youtube]
+
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />][youtube]
 
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/channel/UCF6tbHFxGOSlVkBq71Amh2w/playlists#gh-dark-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/channel/UCF6tbHFxGOSlVkBq71Amh2w/playlists#gh-dark-mode-only)
@@ -71,7 +71,7 @@
 - [Qt opencv to be invisible(Qt opencv görünmez olmak)](https://www.youtube.com/watch?v=Sh2WY8AIM2E&list=PLNZjzXg8sR53u8EX4Fcol6PsMt909yn7j&index=7)
 
 - [Car rental application with database in Qt (Qt' de veritabanı(Sqlite) ile Araç kiralama projesi ))](https://www.youtube.com/watch?v=-Lj93hjNe1g&list=PLNZjzXg8sR51oQ5PjLeehE6R3JC4Fds2M)
-- - [Qt C++ ile Uygulamalar(examples) // Qt C++ login and database operations.)](https://www.youtube.com/watch?v=jGI3mUx4aww&list=PLNZjzXg8sR51oQ5PjLeehE6R3JC4Fds2M&index=2)
+- [Qt C++ ile Uygulamalar(examples) // Qt C++ login and database operations.)](https://www.youtube.com/watch?v=jGI3mUx4aww&list=PLNZjzXg8sR51oQ5PjLeehE6R3JC4Fds2M&index=2)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCF6tbHFxGOSlVkBq71Amh2w/playlists)
