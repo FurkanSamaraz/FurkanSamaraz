@@ -36,12 +36,19 @@
 
 [<img align="left" alt="Opencv" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" style="padding-right:10px;" />][youtube]
 
-
 [<img align="left" alt="C++" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />][youtube]
 
-[<img align="left" alt="Go" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" style="padding-right:10px;" />][youtube]
+[<img align="left" alt="Go" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" style="padding-right:11px;" />][youtube]
 
 [<img align="left" alt="Qt" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" style="padding-right:10px;" />][youtube]
+
+[<img align="left" alt="SQLite" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" style="padding-right:10px;" />][youtube]
+
+[<img align="left" alt="PostgreSQL" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" style="padding-right:10px;" />][youtube]
+
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][youtube]
+
+[<img align="left" alt="XCODE" width="28px" src="https://static.wikia.nocookie.net/logopedia/images/0/09/Xcode.png/revision/latest?cb=20200511221140" style="padding-right:10px;" />][youtube]
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][youtube]
 
@@ -49,12 +56,7 @@
 
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][youtube]
 
-
 [<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][youtube]
-
-
-
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][youtube]
 
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][youtube]
 
