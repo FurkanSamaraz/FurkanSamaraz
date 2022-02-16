@@ -64,28 +64,25 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [STACKr News Weekly: Coding WORDLE, Markdown Crash Course, Build Frogger with JavaScript](https://www.youtube.com/watch?v=ZX6J28qJCrw)
-- [🔴 Node Congress Live Stream](https://www.youtube.com/watch?v=xBICbUafQrw)
-- [GitHub Profile README Image Hacks](https://www.youtube.com/watch?v=jHr6Pc8oQjM)
-- [Markdown Tips &amp; Tricks 2022 - Markdown Crash Course](https://www.youtube.com/watch?v=ftOBvusMHjQ)
-- [STACKr News Weekly: FAANG, 2022 Developer Roadmap, In-Demand Tech Roles](https://www.youtube.com/watch?v=Cl1hMoUlXfE)
+- [Golang-PostgreSQL-EndPoint-JSON](https://www.youtube.com/watch?v=fGl7N9MXL6A&list=PLNZjzXg8sR51njJmuB7sMv-AhIatIB2JX&index=1)
+- [🔴 Go Lang Port Scanner Host](https://www.youtube.com/watch?v=8_UymTCwuLE&list=PLNZjzXg8sR51njJmuB7sMv-AhIatIB2JX&index=4)
+- [Golang API CLİENT Fiber/Json](https://www.youtube.com/watch?v=l2wVZmeXhWA&list=PLNZjzXg8sR51njJmuB7sMv-AhIatIB2JX&index=3)
+- [Qt opencv license plate recognition(Qt opencv plaka tanıma)](https://www.youtube.com/watch?v=tLdQlrcoFUM&list=PLNZjzXg8sR53u8EX4Fcol6PsMt909yn7j&index=4)
+- [Qt opencv to be invisible(Qt opencv görünmez olmak)](https://www.youtube.com/watch?v=Sh2WY8AIM2E&list=PLNZjzXg8sR53u8EX4Fcol6PsMt909yn7j&index=7)
+
+- [Car rental application with database in Qt (Qt' de veritabanı(Sqlite) ile Araç kiralama projesi ))](https://www.youtube.com/watch?v=-Lj93hjNe1g&list=PLNZjzXg8sR51oQ5PjLeehE6R3JC4Fds2M)
+- - [Qt C++ ile Uygulamalar(examples) // Qt C++ login and database operations.)](https://www.youtube.com/watch?v=jGI3mUx4aww&list=PLNZjzXg8sR51oQ5PjLeehE6R3JC4Fds2M&index=2)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UCF6tbHFxGOSlVkBq71Amh2w/playlists)
 
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [PLC TWINCAT BOOK ](https://www.linkedin.com/posts/furkan-samaraz-176401200_codesys-book-activity-6888188294186762240-SmyN)
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
 
 ---
 
