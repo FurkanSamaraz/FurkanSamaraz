@@ -20,7 +20,7 @@
 
 
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCF6tbHFxGOSlVkBq71Amh2w/featured#gh-light-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCF6tbHFxGOSlVkBq71Amh2w/featured#gh-light-mode-only)&nbsp;&nbsp;
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCF6tbHFxGOSlVkBq71Amh2w/featured#gh-dark-mode-only)
 &nbsp;&nbsp;
 
