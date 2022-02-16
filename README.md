@@ -33,8 +33,11 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/furkansmrz#gh-dark-mode-only)
 
 ### Languages and Tools:
+[<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />][youtube]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" style="padding-right:10px;" />][youtube]
+[<img align="left" alt="Go" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" style="padding-right:10px;" />][youtube]
+
+[<img align="left" alt="Qt" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" style="padding-right:10px;" />][youtube]
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][youtube]
 
