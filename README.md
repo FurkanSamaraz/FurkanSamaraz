@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [IOT](https://github.com/FurkanSamaraz/MQTT_Communication_With_Go)
 
-- 🌱 I’m currently learning **Qt, Go, Flutter, IOT.**
+- 🌱 I’m currently learning **Qt, Go, Flutter, IOT, Blockchain.**
 
 - 📫 How to reach me **furkansamaraz@gmail.com**
 
