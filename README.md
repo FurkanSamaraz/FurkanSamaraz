@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkansamaraz" alt="furkansamaraz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/furkan_samaraz" target="blank"><img src="https://img.shields.io/twitter/follow/furkansamaraz?logo=twitter&style=for-the-badge" alt="furkansamaraz" /></a> </p>
+<p align="left"> <a href="https://twitter.com/furkan_samaraz" target="blank"><img src="https://img.shields.io/twitter/follow/furkan_samaraz?logo=twitter&style=for-the-badge" alt="furkan_samaraz" /></a> </p>
 
 - 🔭 I’m currently working on [IOT](https://github.com/FurkanSamaraz/MQTT_Communication_With_Go)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:angua</h3>
 <p align="left">
-<a href="https://twitter.com/furkansamaraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="furkansamaraz" height="30" width="40" /></a>
+<a href="https://twitter.com/furkan_samaraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="furkan_samaraz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/furkansamaraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkansamaraz" height="30" width="40" /></a>
 <a href="https://instagram.com/furkansamarazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkansamarazz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/furkan-samaraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="furkan-samaraz" height="30" width="40" /></a>
