@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">I'm a programmer at night.</h3>
-- https://medium.com/@furkansmrz
+- [medium](https://medium.com/@furkansmrz)
+- [youtube](https://www.youtube.com/channel/UCF6tbHFxGOSlVkBq71Amh2w/videos)
+- [Blockchain-Book](https://furkans-organization.gitbook.io/blockchain-go-programlama-dili/)
+- [Golang-Gorm-Book](https://furkans-organization.gitbook.io/gorm/)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkansamaraz&label=Profile%20views&color=0e75b6&style=flat" alt="furkansamaraz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkansamaraz" alt="furkansamaraz" /></a> </p>
