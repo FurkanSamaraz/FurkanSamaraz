@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">I'm a programmer at night.</h3>
+
 - [medium](https://medium.com/@furkansmrz)
+
 - [youtube](https://www.youtube.com/channel/UCF6tbHFxGOSlVkBq71Amh2w/videos)
+
 - [Blockchain-Book](https://furkans-organization.gitbook.io/blockchain-go-programlama-dili/)
+
 - [Golang-Gorm-Book](https://furkans-organization.gitbook.io/gorm/)
 
 
