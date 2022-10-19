@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [IOT](https://github.com/FurkanSamaraz/MQTT_Communication_With_Go)
 
-- 🌱 I’m currently learning **Nodejs, Go, Swift, Blockchain.**
+- 🌱 I’m currently learning **Nodejs, Go, Blockchain.**
 
 - 📫 How to reach me **furkansamaraz@gmail.com**
 
