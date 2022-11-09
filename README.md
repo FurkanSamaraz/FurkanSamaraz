@@ -9,6 +9,8 @@
 
 - [Golang-Gorm-Book](https://furkans-organization.gitbook.io/gorm/)
 
+- [TwinCat-Book](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6888188293251432449)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkansamaraz&label=Profile%20views&color=0e75b6&style=flat" alt="furkansamaraz" /> </p>
 
@@ -21,7 +23,7 @@
 - 🌱 I’m currently learning **Nodejs, Go, Blockchain.**
 
 - 📫 How to reach me **furkansamaraz@gmail.com**
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6888188293251432449" height="570" width="504" frameborder="0" allowfullscreen="" title="Gömülü gönderi"></iframe>
+
 <h3 align="left">Connect with me:angua</h3>
 <p align="left">
 <a href="https://twitter.com/furkan_samaraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="furkan_samaraz" height="30" width="40" /></a>
