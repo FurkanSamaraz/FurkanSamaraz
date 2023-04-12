@@ -5,11 +5,11 @@
 
 - [Youtube](https://www.youtube.com/channel/UCF6tbHFxGOSlVkBq71Amh2w/videos)
 
-- [Blockchain-Book](https://furkans-organization.gitbook.io/blockchain-go-programlama-dili/)
+- [Blockchain-Document](https://furkans-organization.gitbook.io/blockchain-go-programlama-dili/)
 
-- [Architectures-Book](https://furkans-organization.gitbook.io/architectures/)
+- [Architectures-Document](https://furkans-organization.gitbook.io/architectures/)
 
-- [Golang-Gorm-Book](https://furkans-organization.gitbook.io/gorm/)
+- [Golang-Gorm-Document](https://furkans-organization.gitbook.io/gorm/)
 
 - [TwinCat-Book](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6888188293251432449)
 
