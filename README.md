@@ -12,6 +12,8 @@
 
 - [TwinCat-Book](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6888188293251432449)
 
+- [Contribution-Gorm](https://go.kaanksc.com/veritabani/gorm)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkansamaraz&label=Profile%20views&color=0e75b6&style=flat" alt="furkansamaraz" /> </p>
 
