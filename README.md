@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **Nodejs, GoLang, Blockchain.**
 
-- 📫 How to reach me **furkansamaraz@gmail.com**
+- 📫 How to reach me **furkansamaraz@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
