@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 
-- [Medium](https://medium.com/@furkansmrz)
+- [Medium]([https://medium.com/@furkansmrz](https://furkansmrz.medium.com/))
 
 - [Youtube](https://www.youtube.com/channel/UCF6tbHFxGOSlVkBq71Amh2w/videos)
 
